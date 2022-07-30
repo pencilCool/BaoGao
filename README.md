@@ -33,7 +33,16 @@ https://www.ipsos.com/
 https://www.iresearch.com.cn/
 
 
+### 国际官方数据
+
+中国互联网络信息中心
+https://www.cnnic.cn/
+
+
 ### 大厂研报 
+
+阿里研究
+http://www.aliresearch.com/
 
 京东研究院 
 https://research.jd.com/
