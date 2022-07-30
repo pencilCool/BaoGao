@@ -7,12 +7,10 @@
 https://www.mckinsey.com/
 
 波士顿
-
 https://www.bcg.com/
 
 
 贝恩 
-
 https://www.bain.com/about/offices/
 
 
@@ -36,6 +34,7 @@ https://www.iresearch.com.cn/
 
 
 ### 大厂研报 
+
 京东研究院 
 https://research.jd.com/
 
